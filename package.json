@@ -61,7 +61,7 @@
     "@types/geojson": "^7946.0.7",
     "@types/pbf": "^3.0.2",
     "@types/topojson-specification": "^1.0.1",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^9.0.1",
     "chaikin-smooth": "^1.0.4",
     "clean-css-cli": "5.4.1",
     "copy-webpack-plugin": "^9.0.0",
